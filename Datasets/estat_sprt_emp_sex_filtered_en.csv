@@ -1,0 +1,351 @@
+STRUCTURE,STRUCTURE_ID,STRUCTURE_NAME,freq,Time frequency,sex,Sex,unit,Unit of measure,geo,Geopolitical entity (reporting),TIME_PERIOD,Time,OBS_VALUE,Observation value,OBS_FLAG,Observation status (Flag)
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,AT,Austria,2014,,27.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,AT,Austria,2015,,35.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,AT,Austria,2016,,27.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,AT,Austria,2017,,26.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,AT,Austria,2018,,24.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,AT,Austria,2019,,30.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,AT,Austria,2020,,30.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,AT,Austria,2021,,26.0,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,AT,Austria,2022,,28.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,AT,Austria,2023,,32.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BE,Belgium,2014,,20.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BE,Belgium,2015,,19.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BE,Belgium,2016,,23.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BE,Belgium,2017,,23.2,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BE,Belgium,2018,,23.5,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BE,Belgium,2019,,24.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BE,Belgium,2020,,27.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BE,Belgium,2021,,25.7,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BE,Belgium,2022,,30.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BE,Belgium,2023,,32.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BG,Bulgaria,2014,,9.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BG,Bulgaria,2015,,10.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BG,Bulgaria,2016,,11.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BG,Bulgaria,2017,,13.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BG,Bulgaria,2018,,12.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BG,Bulgaria,2019,,14.4,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BG,Bulgaria,2020,,13.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BG,Bulgaria,2021,,11.0,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BG,Bulgaria,2022,,9.2,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,BG,Bulgaria,2023,,11.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CH,Switzerland,2014,,44.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CH,Switzerland,2015,,48.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CH,Switzerland,2016,,53.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CH,Switzerland,2017,,52.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CH,Switzerland,2018,,56.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CH,Switzerland,2019,,57.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CH,Switzerland,2020,,55.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CH,Switzerland,2021,,47.3,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CH,Switzerland,2022,,42.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CH,Switzerland,2023,,43.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CY,Cyprus,2014,,2.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CY,Cyprus,2015,,1.9,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CY,Cyprus,2016,,2.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CY,Cyprus,2017,,2.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CY,Cyprus,2018,,2.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CY,Cyprus,2019,,3.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CY,Cyprus,2020,,3.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CY,Cyprus,2021,,3.8,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CY,Cyprus,2022,,3.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CY,Cyprus,2023,,3.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CZ,Czechia,2014,,29.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CZ,Czechia,2015,,27.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CZ,Czechia,2016,,31.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CZ,Czechia,2017,,33.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CZ,Czechia,2018,,34.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CZ,Czechia,2019,,35.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CZ,Czechia,2020,,29.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CZ,Czechia,2021,,29.8,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CZ,Czechia,2022,,30.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,CZ,Czechia,2023,,29.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DE,Germany,2014,,218.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DE,Germany,2015,,224.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DE,Germany,2016,,243.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DE,Germany,2017,,253.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DE,Germany,2018,,254.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DE,Germany,2019,,262.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DE,Germany,2020,,234.7,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DE,Germany,2021,,222.5,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DE,Germany,2022,,238.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DE,Germany,2023,,239.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DK,Denmark,2014,,27.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DK,Denmark,2015,,28.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DK,Denmark,2016,,28.6,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DK,Denmark,2017,,26.5,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DK,Denmark,2018,,28.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DK,Denmark,2019,,30.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DK,Denmark,2020,,26.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DK,Denmark,2021,,27.9,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DK,Denmark,2022,,34.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,DK,Denmark,2023,,37.7,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EE,Estonia,2014,,6.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EE,Estonia,2015,,4.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EE,Estonia,2016,,5.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EE,Estonia,2017,,4.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EE,Estonia,2018,,5.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EE,Estonia,2019,,6.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EE,Estonia,2020,,4.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EE,Estonia,2021,,4.9,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EE,Estonia,2022,,7.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EE,Estonia,2023,,6.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EL,Greece,2014,,14.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EL,Greece,2015,,15.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EL,Greece,2016,,17.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EL,Greece,2017,,19.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EL,Greece,2018,,21.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EL,Greece,2019,,21.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EL,Greece,2020,,25.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EL,Greece,2021,,22.7,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EL,Greece,2022,,33.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EL,Greece,2023,,26.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ES,Spain,2014,,187.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ES,Spain,2015,,183.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ES,Spain,2016,,192.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ES,Spain,2017,,201.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ES,Spain,2018,,211.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ES,Spain,2019,,216.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ES,Spain,2020,,199.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ES,Spain,2021,,220.3,,bd,"break in time series, definition differs (see metadata)"
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ES,Spain,2022,,231.8,,d,definition differs (see metadata)
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ES,Spain,2023,,244.7,,d,definition differs (see metadata)
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EU27_2020,European Union - 27 countries (from 2020),2014,,1172.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EU27_2020,European Union - 27 countries (from 2020),2015,,1210.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EU27_2020,European Union - 27 countries (from 2020),2016,,1260.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EU27_2020,European Union - 27 countries (from 2020),2017,,1292.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EU27_2020,European Union - 27 countries (from 2020),2018,,1320.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EU27_2020,European Union - 27 countries (from 2020),2019,,1371.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EU27_2020,European Union - 27 countries (from 2020),2020,,1316.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EU27_2020,European Union - 27 countries (from 2020),2021,,1368.4,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EU27_2020,European Union - 27 countries (from 2020),2022,,1514.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,EU27_2020,European Union - 27 countries (from 2020),2023,,1547.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FI,Finland,2014,,30.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FI,Finland,2015,,30.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FI,Finland,2016,,30.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FI,Finland,2017,,31.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FI,Finland,2018,,32.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FI,Finland,2019,,32.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FI,Finland,2020,,34.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FI,Finland,2021,,33.1,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FI,Finland,2022,,32.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FI,Finland,2023,,30.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FR,France,2014,,167.9,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FR,France,2015,,177.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FR,France,2016,,181.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FR,France,2017,,171.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FR,France,2018,,186.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FR,France,2019,,180.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FR,France,2020,,185.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FR,France,2021,,279.2,,bd,"break in time series, definition differs (see metadata)"
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FR,France,2022,,313.3,,d,definition differs (see metadata)
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,FR,France,2023,,288.7,,d,definition differs (see metadata)
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HR,Croatia,2014,,6.1,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HR,Croatia,2015,,4.8,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HR,Croatia,2016,,5.9,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HR,Croatia,2017,,6.4,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HR,Croatia,2018,,9.7,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HR,Croatia,2019,,10.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HR,Croatia,2020,,6.0,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HR,Croatia,2021,,7.6,,bu,"break in time series, low reliability"
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HR,Croatia,2022,,7.8,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HR,Croatia,2023,,8.3,,bu,"break in time series, low reliability"
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HU,Hungary,2014,,14.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HU,Hungary,2015,,18.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HU,Hungary,2016,,17.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HU,Hungary,2017,,15.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HU,Hungary,2018,,18.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HU,Hungary,2019,,22.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HU,Hungary,2020,,26.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HU,Hungary,2021,,27.3,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HU,Hungary,2022,,28.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,HU,Hungary,2023,,25.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IE,Ireland,2014,,19.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IE,Ireland,2015,,18.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IE,Ireland,2016,,21.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IE,Ireland,2017,,23.2,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IE,Ireland,2018,,23.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IE,Ireland,2019,,24.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IE,Ireland,2020,,21.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IE,Ireland,2021,,20.3,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IE,Ireland,2022,,22.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IE,Ireland,2023,,26.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IS,Iceland,2014,,3.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IS,Iceland,2015,,3.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IS,Iceland,2016,,3.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IS,Iceland,2017,,4.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IS,Iceland,2018,,4.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IS,Iceland,2019,,4.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IS,Iceland,2020,,4.2,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IS,Iceland,2021,,5.4,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IS,Iceland,2022,,5.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IS,Iceland,2023,,5.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IT,Italy,2014,,120.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IT,Italy,2015,,117.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IT,Italy,2016,,119.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IT,Italy,2017,,130.3,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IT,Italy,2018,,115.7,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IT,Italy,2019,,132.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IT,Italy,2020,,135.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IT,Italy,2021,,103.9,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IT,Italy,2022,,135.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,IT,Italy,2023,,161.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LT,Lithuania,2014,,5.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LT,Lithuania,2015,,6.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LT,Lithuania,2016,,7.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LT,Lithuania,2017,,7.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LT,Lithuania,2018,,7.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LT,Lithuania,2019,,5.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LT,Lithuania,2020,,5.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LT,Lithuania,2021,,6.6,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LT,Lithuania,2022,,7.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LT,Lithuania,2023,,6.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LU,Luxembourg,2014,,1.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LU,Luxembourg,2015,,1.8,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LU,Luxembourg,2016,,2.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LU,Luxembourg,2017,,1.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LU,Luxembourg,2018,,1.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LU,Luxembourg,2019,,1.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LU,Luxembourg,2020,,2.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LU,Luxembourg,2021,,1.6,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LU,Luxembourg,2022,,2.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LU,Luxembourg,2023,,2.5,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LV,Latvia,2014,,5.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LV,Latvia,2015,,5.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LV,Latvia,2016,,5.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LV,Latvia,2017,,5.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LV,Latvia,2018,,8.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LV,Latvia,2019,,10.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LV,Latvia,2020,,6.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LV,Latvia,2021,,6.0,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LV,Latvia,2022,,5.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,LV,Latvia,2023,,4.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ME,Montenegro,2014,,1.4,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ME,Montenegro,2015,,,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ME,Montenegro,2016,,,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ME,Montenegro,2017,,1.2,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ME,Montenegro,2018,,1.6,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ME,Montenegro,2019,,1.6,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,ME,Montenegro,2020,,1.6,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MK,North Macedonia,2014,,1.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MK,North Macedonia,2015,,2.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MK,North Macedonia,2016,,1.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MK,North Macedonia,2017,,2.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MK,North Macedonia,2018,,1.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MK,North Macedonia,2019,,2.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MK,North Macedonia,2020,,2.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MT,Malta,2014,,1.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MT,Malta,2015,,1.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MT,Malta,2016,,0.7,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MT,Malta,2017,,1.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MT,Malta,2018,,1.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MT,Malta,2019,,1.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MT,Malta,2020,,1.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MT,Malta,2021,,0.8,,bu,"break in time series, low reliability"
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MT,Malta,2022,,1.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,MT,Malta,2023,,1.7,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NL,Netherlands,2014,,66.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NL,Netherlands,2015,,73.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NL,Netherlands,2016,,76.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NL,Netherlands,2017,,71.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NL,Netherlands,2018,,76.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NL,Netherlands,2019,,82.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NL,Netherlands,2020,,77.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NL,Netherlands,2021,,82.2,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NL,Netherlands,2022,,88.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NL,Netherlands,2023,,96.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NO,Norway,2014,,24.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NO,Norway,2015,,25.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NO,Norway,2016,,29.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NO,Norway,2017,,28.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NO,Norway,2018,,32.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NO,Norway,2019,,32.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NO,Norway,2020,,33.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NO,Norway,2021,,30.8,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NO,Norway,2022,,31.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,NO,Norway,2023,,32.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PL,Poland,2014,,58.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PL,Poland,2015,,57.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PL,Poland,2016,,63.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PL,Poland,2017,,69.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PL,Poland,2018,,74.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PL,Poland,2019,,71.7,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PL,Poland,2020,,68.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PL,Poland,2021,,68.1,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PL,Poland,2022,,71.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PL,Poland,2023,,75.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PT,Portugal,2014,,32.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PT,Portugal,2015,,38.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PT,Portugal,2016,,39.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PT,Portugal,2017,,39.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PT,Portugal,2018,,37.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PT,Portugal,2019,,38.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PT,Portugal,2020,,37.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PT,Portugal,2021,,35.6,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PT,Portugal,2022,,42.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,PT,Portugal,2023,,44.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RO,Romania,2014,,10.8,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RO,Romania,2015,,12.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RO,Romania,2016,,12.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RO,Romania,2017,,15.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RO,Romania,2018,,10.8,,u,low reliability
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RO,Romania,2019,,15.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RO,Romania,2020,,19.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RO,Romania,2021,,12.1,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RO,Romania,2022,,16.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RO,Romania,2023,,21.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RS,Serbia,2014,,13.8,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RS,Serbia,2015,,15.2,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RS,Serbia,2016,,13.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RS,Serbia,2017,,16.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RS,Serbia,2018,,13.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RS,Serbia,2019,,14.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RS,Serbia,2020,,12.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RS,Serbia,2021,,15.7,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RS,Serbia,2022,,15.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,RS,Serbia,2023,,16.0,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SE,Sweden,2014,,72.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SE,Sweden,2015,,76.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SE,Sweden,2016,,74.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SE,Sweden,2017,,79.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SE,Sweden,2018,,81.8,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SE,Sweden,2019,,81.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SE,Sweden,2020,,77.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SE,Sweden,2021,,71.4,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SE,Sweden,2022,,72.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SE,Sweden,2023,,71.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SI,Slovenia,2014,,4.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SI,Slovenia,2015,,5.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SI,Slovenia,2016,,5.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SI,Slovenia,2017,,5.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SI,Slovenia,2018,,5.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SI,Slovenia,2019,,4.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SI,Slovenia,2020,,4.7,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SI,Slovenia,2021,,7.9,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SI,Slovenia,2022,,8.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SI,Slovenia,2023,,7.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SK,Slovakia,2014,,12.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SK,Slovakia,2015,,11.2,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SK,Slovakia,2016,,11.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SK,Slovakia,2017,,11.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SK,Slovakia,2018,,9.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SK,Slovakia,2019,,10.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SK,Slovakia,2020,,11.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SK,Slovakia,2021,,10.0,,bu,"break in time series, low reliability"
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SK,Slovakia,2022,,11.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,SK,Slovakia,2023,,10.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,TR,Türkiye,2014,,65.0,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,TR,Türkiye,2015,,82.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,TR,Türkiye,2016,,78.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,TR,Türkiye,2017,,83.8,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,TR,Türkiye,2018,,101.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,TR,Türkiye,2019,,97.4,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,TR,Türkiye,2020,,66.0,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,TR,Türkiye,2021,,67.3,,b,break in time series
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,TR,Türkiye,2022,,87.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,TR,Türkiye,2023,,116.9,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,UK,United Kingdom,2014,,395.1,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,UK,United Kingdom,2015,,417.6,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,UK,United Kingdom,2016,,431.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,UK,United Kingdom,2017,,435.3,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,UK,United Kingdom,2018,,445.5,,,
+dataflow,ESTAT:SPRT_EMP_SEX(1.0),Employment in sport by sex,A,Annual,T,Total,THS_PER,Thousand persons,UK,United Kingdom,2019,,424.7,,,
